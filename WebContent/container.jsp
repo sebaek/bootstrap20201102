@@ -11,30 +11,64 @@
 <title>Insert title here</title>
 </head>
 <body>
-<!-- 5층 들리시죠? 주석: ctrl+shift+/ -->
+<div class="container">
 <!-- table.table>tr>th*3>lorem1^^tr*3>td*3>lorem1 -->
 <table class="table">
 	<tr>
 		<th>Lorem.</th>
-		<th>Sequi!</th>
-		<th>Veritatis.</th>
+		<th>Sequi?</th>
+		<th>Quidem.</th>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Sit.</td>
-		<td>Suscipit.</td>
+		<td>Voluptate.</td>
+		<td>Facere?</td>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Dolore.</td>
-		<td>Dolores.</td>
+		<td>At.</td>
+		<td>Tempora!</td>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Officia.</td>
-		<td>Vitae.</td>
+		<td>Natus.</td>
+		<td>Accusamus?</td>
 	</tr>
 </table>
+</div>
 
+<div class="container-fluid">
+<table class="table">
+	<tr>
+		<th>Lorem.</th>
+		<th>Beatae?</th>
+		<th>Iusto!</th>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Doloremque!</td>
+		<td>Sapiente!</td>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Dolorum.</td>
+		<td>Tempora!</td>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Dignissimos.</td>
+		<td>Impedit.</td>
+	</tr>
+</table>
+</div>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
