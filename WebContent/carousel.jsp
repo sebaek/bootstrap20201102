@@ -13,7 +13,7 @@
 <body>
 <div class="container">
 
-<div id="demo" class="carousel slide" data-ride="carousel">
+<div id="demo" class="carousel slide" data-pause="false" data-interval="1000" data-ride="carousel">
 
   <!-- Indicators -->
   <ul class="carousel-indicators">
